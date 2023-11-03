@@ -1,10 +1,12 @@
-# CollectionBuilder-CSV
+# rti-exhibit
 
-CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server (or built automatically using GitHub Actions).
+A digital exhibit project demonstrating using Relight to display RTI images.
 
-Visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections!
+Lauren K. McCormick (Princeton University), learn more about RTI research in her talk [To See and Be Seen: Looking as a Central yet Underappreciated Attribute of the Judean Pillar Figurine](https://www.youtube.com/live/c2B9YoR-cfk?si=iKpsiHRXthfz70TY).
+
+Build using CollectionBuilder-CSV and the [rti-viewer_cb-add-on](https://github.com/CollectionBuilder/rti-viewer_cb-add-on) added. 
+
+--------
 
 ## Brief Overview of Building a Collection
 
