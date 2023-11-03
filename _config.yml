@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://evanwill.github.io
+url: https://laurmcco.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /rti-exhibit
 # location of code, the full url to your github repository
-source-code: https://github.com/evanwill/rti-exhibit
+source-code: https://github.com/laurmcco/rti-exhibit
 
 ##########
 # SITE SETTINGS
